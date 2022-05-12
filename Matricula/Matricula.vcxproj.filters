@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="utiles.cpp" />
+    <ClCompile Include="admin.cpp" />
+    <ClCompile Include="carrera.cpp" />
+    <ClCompile Include="ciclo_lectivo.cpp" />
+    <ClCompile Include="curso.cpp" />
+    <ClCompile Include="curso_estudiante.cpp" />
+    <ClCompile Include="estudiante.cpp" />
+    <ClCompile Include="grupo.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="mantenimiento.cpp" />
+    <ClCompile Include="nota.cpp" />
+    <ClCompile Include="plan_estudios.cpp" />
+    <ClCompile Include="profesor.cpp" />
+    <ClCompile Include="registro.cpp" />
+    <ClCompile Include="sistema.cpp" />
+    <ClCompile Include="usuario.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="admin.h" />
+    <ClInclude Include="carrera.h" />
+    <ClInclude Include="ciclo_lectivo.h" />
+    <ClInclude Include="curso.h" />
+    <ClInclude Include="curso_estudiante.h" />
+    <ClInclude Include="estudiante.h" />
+    <ClInclude Include="grupo.h" />
+    <ClInclude Include="lista.h" />
+    <ClInclude Include="mantenimiento.h" />
+    <ClInclude Include="nodo.h" />
+    <ClInclude Include="nota.h" />
+    <ClInclude Include="plan_estudios.h" />
+    <ClInclude Include="profesor.h" />
+    <ClInclude Include="registro.h" />
+    <ClInclude Include="sistema.h" />
+    <ClInclude Include="usuario.h" />
+    <ClInclude Include="utiles.h" />
+    <ClInclude Include="iterador.h" />
+  </ItemGroup>
+</Project>
